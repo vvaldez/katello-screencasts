@@ -1,7 +1,12 @@
-03-Content II: Promotion, system registration
+03 Content II: Promotion, system registration
 =============================================
 
 todo
 ====
-* Use the browser to see what content is in each environment
+* Promote fedora to an environment
+* download system template
+* register a machine via rhsm with username
+* register system via activation keys
+* install new content
 Use the CLI and GUI.
+
